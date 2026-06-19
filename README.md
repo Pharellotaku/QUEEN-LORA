@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FF1493&background=00000000&center=true&vCenter=true&width=800&lines=👑+QUEEN+LORA+XMD;🚀+ULTIMATE+WHATSAPP+BOT;⚡+POWERED+BY+DIANA+TECH;🔥+FAST+%7C+SMART+%7C+POWERFUL" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FF1493&background=00000000&center=true&vCenter=true&width=800&lines=👑+QUEEN+LORA+XMD;🚀+ULTIMATE+WHATSAPP+BOT;⚡+POWERED+BY+PHARELL+TECH;🔥+FAST+%7C+SMART+%7C+POWERFUL" />
 </h1>
 
 <p align="center">
@@ -100,7 +100,7 @@
 ```env
 SESSION_ID=
 OWNER_NUMBER=
-BOT_NAME=QUEEN LORA
+BOT_NAME=PHARELL BOT
 PREFIX=.
 MODE=public
 
@@ -151,13 +151,13 @@ Setup Guide
 <img src="https://img.shields.io/badge/👑_DIANA_TECH-FF1493?style=for-the-badge">
 </a></div>
 
-💖 THANKS FOR USING QUEEN LORA
+💖 THANKS FOR USING PHARELL BOT
 
 <div align="center">🚀 Fast • Smart • Powerful
 
-Made With ❤️ By Diana Tech
+Made With ❤️ By pharell Tech
 
-© 2026 QUEEN LORA XMD
+© 2026 PHARELL LORA XMD
 
 </div><p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="45">
